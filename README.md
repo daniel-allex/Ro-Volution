@@ -1,5 +1,5 @@
 # Ro-Volution
-Online 3D game built in Lua. Published and has reached 22k+ users.
+Online 3D game built in Lua. Supports phone, tablet, and PC. Published and has reached 22k+ users.
 
 Round-based free-for-all game in which players become stronger by defeating larger players.
 Larger players do more damage and have more health, but they are a target for the entire server as they give other players more strength once defeated.
